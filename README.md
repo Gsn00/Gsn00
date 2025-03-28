@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Gabriel Novais</h2>
+  <h1>Gabriel Novais</h1>
   
   <br/><br/>
   <div>
