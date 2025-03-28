@@ -10,5 +10,17 @@
   </div>
 
   <br/><br/>
+  <div>
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />&nbsp;&nbsp;
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />&nbsp;&nbsp;
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />&nbsp;&nbsp;
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />&nbsp;&nbsp;
+  </div>
+
+  <br/><br/>
   <h4>silvanovaesgabriel@gmail.com</h4>
 </div>
