@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Fascinado por programação, tudo relacionado a tecnologia sempre me chamou muita atenção, meu primeiro contato com programação foi por acaso, na época eu tinha 16 anos, e desde lá, nunca pensei em fazer outra coisa.</h3>
+  <h2>Gabriel Novais</h2>
   
   <br/><br/>
   <div>
