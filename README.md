@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Gabriel Novais</h1>
+  <img src="https://media.discordapp.net/attachments/729850180207378444/1355039296968589382/0.png?ex=67e77a2f&is=67e628af&hm=1c72ccad795bdb5bb82e006f1f5933ab0fdc67a60423397124b24f02a56a57e0&=&format=webp&quality=lossless" />&nbsp;&nbsp;
   
   <br/><br/>
   <div>
