@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="50%" src="https://media.discordapp.net/attachments/729850180207378444/1355047540281577502/teste.gif?ex=67e781dd&is=67e6305d&hm=ab0c0a1c3f1d315f70724fac1f8db111e9a5d55183de32218f5bdee03fb50281&=&width=1872&height=585" />&nbsp;&nbsp;
+  <img width="50%" src="https://media.discordapp.net/attachments/729850180207378444/1355050266608537710/gifGabriel.gif?ex=67e78467&is=67e632e7&hm=4aa86a9058c7dda6724aa84b22fd13a2a5f92ac14052941424ed5db13580eeca&=&width=1872&height=585" />&nbsp;&nbsp;
 
   <div>
     <p>&lt Engenharia de Software 1/4 - FIAP /&gt</p>
