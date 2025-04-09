@@ -21,5 +21,8 @@
   </div>
 
   <br/><br/>
-  <h4>silvanovaesgabriel@gmail.com</h4>
+
+  <h4>Meios de contato:</h4>
+  
+  [Gmail](mailto:silvanovaesgabriel@gmail.com) / [Linkedin](https://www.linkedin.com/in/gabriel-silva-novais-054472264/)
 </div>
