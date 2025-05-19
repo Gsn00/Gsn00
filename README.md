@@ -5,7 +5,6 @@
     <p>&lt Engenharia de Software 1/4 - FIAP /&gt</p>
     <p>&lt Desenvolvedor Full Stack /&gt</p>
     <p>&lt JAVA, PHP, Javascript, C++, Python, HTML, CSS, MySQL e mais... /&gt</p>
-    <p>&lt Inglês Avançado /&gt</p>
   </div>
 
   <br/><br/>
