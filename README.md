@@ -7,10 +7,10 @@ Tenho experiência no desenvolvimento de APIs REST, integração com bancos de d
 
 
 # Projetos em Destaque
-🔹 [Plataforma de Cursos](https://github.com/Gsn00/Plataforma-de-Cursos)<br>
+🔹 [Plataforma de Cursos](https://github.com/Gsn00/Plataforma-de-Cursos) <b>(Java + Spring)</b><br>
 API desenvolvida com Java + Spring Boot para gerenciar cursos online. O sistema permite cadastro de usuários, autenticação com Spring Security, controle de permissões, gestão de cursos e inscrições. Integrações externas (como streaming de vídeos com Gumlet) foram adicionadas, além de testes com JUnit e documentação via Swagger. Projeto focado em simular uma aplicação real com regras de negócio bem definidas.
 
-🔹 [Gerenciador de Tarefas](https://github.com/Gsn00/gerenciador-de-tarefas-react)<br>
+🔹 [Gerenciador de Tarefas](https://github.com/Gsn00/gerenciador-de-tarefas-react) <b>(React + Tailwind)</b><br>
 Aplicação frontend desenvolvida em React para controle de tarefas. O usuário pode adicionar, concluir ou remover tarefas em uma interface responsiva e intuitiva. Utiliza React Hooks, manipulação de estado com useState e boas práticas de componentização. Projeto voltado ao aprendizado prático de React com foco em interatividade e experiência do usuário.
 
 #
