@@ -10,8 +10,8 @@ Tenho experiência no desenvolvimento de APIs REST, integração com bancos de d
 🔹 [Plataforma de Cursos](https://github.com/Gsn00/Plataforma-de-Cursos) <b>(Java + Spring)</b><br>
 API desenvolvida com Java + Spring Boot para gerenciar cursos online. O sistema permite cadastro de usuários, autenticação com Spring Security, controle de permissões, gestão de cursos e inscrições. Integrações externas (como streaming de vídeos com Gumlet) foram adicionadas, além de testes com JUnit e documentação via Swagger. Projeto focado em simular uma aplicação real com regras de negócio bem definidas.
 
-🔹 [Gerenciador de Tarefas](https://github.com/Gsn00/gerenciador-de-tarefas-react) <b>(React + Tailwind)</b><br>
-Aplicação frontend desenvolvida em React para controle de tarefas. O usuário pode adicionar, concluir ou remover tarefas em uma interface responsiva e intuitiva. Utiliza React Hooks, manipulação de estado com useState e boas práticas de componentização. Projeto voltado ao aprendizado prático de React com foco em interatividade e experiência do usuário.
+🔹 [Global Solution 2025-02](https://github.com/Gsn00/global-solution-2025-02) <b>(React + Tailwind + Inteligência Artificial)</b><br>
+Global Solution 2025-02: Conectando Pessoas, Competências e Propósito é uma Single Page Application (SPA) que simula uma rede profissional colaborativa. O projeto é construído com React e JavaScript no frontend, estilizado com Tailwind CSS e empacotado com Vite. O principal diferencial é a integração de um chat com Inteligência Artificial, utilizando a Groq API para simular a personalidade de cada profissional com alta velocidade e fidelidade contextual através de Prompt Engineering.
 
 #
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
