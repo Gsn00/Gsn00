@@ -32,10 +32,6 @@ Global Solution 2025-02: Conectando Pessoas, Competências e Propósito é uma S
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsn00&layout=compact&theme=default)
-
-
 # Contato
 Gmail - silvanovaesgabriel@gmail.com <br>
 Linkedin - https://www.linkedin.com/in/gabrielsnovais
