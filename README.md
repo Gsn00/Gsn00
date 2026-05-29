@@ -2,7 +2,7 @@
 
 #
 <h4 align="center">Estudante do segundo ano de Engenharia de Software na FIAP!</h4>
-<p align="center">Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados, além da criação de interfaces web responsivas utilizando HTML, CSS, JavaScript e React. Atualmente, estou expandindo meus conhecimentos em Langchain para fortalecer meus conhecimentos com Inteligência Artificial.</p>
+<p align="center">Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados, além da criação de interfaces web responsivas utilizando HTML, CSS, JavaScript e React. Atualmente, estou expandindo meus conhecimentos em Langchain para fortalecer meus conhecimentos com Inteligência Artificial e LLMs.</p>
 
 <h2 align="center">Reach Me Out <img src="https://github.com/user-attachments/assets/ff52eb62-60c6-4e32-8be9-c7f945b00b37" width="30"></h2>
 
