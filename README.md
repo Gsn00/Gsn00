@@ -1,7 +1,7 @@
 <img width="2752" height="1536" alt="Banner" src="https://github.com/user-attachments/assets/8d66104d-824a-4025-800d-15254e3e1697" />
 
 #
-<p align="center">Estudante do segundo ano de Engenharia de Software na FIAP!</p>
+<h4 align="center">Estudante do segundo ano de Engenharia de Software na FIAP!</h4>
 <p align="center">Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados, além da criação de interfaces web responsivas utilizando HTML, CSS, JavaScript e React. Atualmente, estou expandindo meus conhecimentos em Langchain para fortalecer meus conhecimentos com Inteligência Artificial.</p>
 
 <h2 align="center">Reach Me Out <img src="https://github.com/user-attachments/assets/ff52eb62-60c6-4e32-8be9-c7f945b00b37" width="30"></h2>
