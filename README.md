@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="dadsadsa" src="https://github.com/user-attachments/assets/86a9a1ed-08c9-4b68-8fce-ffb99adde7d9" />
+<img width="2752" height="1536" alt="Banner" src="https://github.com/user-attachments/assets/8d66104d-824a-4025-800d-15254e3e1697" />
 
 #
 <p align="center">Estudante do segundo ano de Engenharia de Software na FIAP!</p>
