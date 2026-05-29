@@ -7,15 +7,15 @@
 <h2 align="center">Reach Me Out <img src="https://github.com/user-attachments/assets/ff52eb62-60c6-4e32-8be9-c7f945b00b37" width="30"></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielsnovais/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielsnovais/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:silvanovaesgabriel@gmail.com" target="_blank">
+  <a href="mailto:silvanovaesgabriel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://wa.me/5511917145639" target="_blank">
+  <a href="https://wa.me/5511917145639">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
