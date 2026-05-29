@@ -1,37 +1,49 @@
-
-# 👋 Olá, sou Gabriel Novais
-
-Meu nome é Gabriel Novais, tenho 22 anos e sou estudante de Engenharia de Software na FIAP. Tenho foco em desenvolvimento backend com Java e Spring, buscando criar aplicações robustas, bem estruturadas e com código de qualidade.
-
-Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados relacionais e NoSQL, além da criação de interfaces web responsivas utilizando HTML, CSS e JavaScript. Atualmente, estou expandindo meus conhecimentos em React para fortalecer minha atuação no frontend.
-
-
-# Projetos em Destaque
-🔹 [Plataforma de Cursos](https://github.com/Gsn00/Plataforma-de-Cursos) <b>(Java + Spring)</b><br>
-API desenvolvida com Java + Spring Boot para gerenciar cursos online. O sistema permite cadastro de usuários, autenticação com Spring Security, controle de permissões, gestão de cursos e inscrições. Integrações externas (como streaming de vídeos com Gumlet) foram adicionadas, além de testes com JUnit e documentação via Swagger. Projeto focado em simular uma aplicação real com regras de negócio bem definidas.
-
-🔹 [Global Solution 2025-02](https://github.com/Gsn00/global-solution-2025-02) <b>(React + Tailwind + Inteligência Artificial)</b><br>
-Global Solution 2025-02: Conectando Pessoas, Competências e Propósito é uma Single Page Application (SPA) que simula uma rede profissional colaborativa. O projeto é construído com React e JavaScript no frontend, estilizado com Tailwind CSS e empacotado com Vite. O principal diferencial é a integração de um chat com Inteligência Artificial, utilizando a Groq API para simular a personalidade de cada profissional com alta velocidade e fidelidade contextual através de Prompt Engineering.
+<img width="2752" height="1536" alt="dadsadsa" src="https://github.com/user-attachments/assets/86a9a1ed-08c9-4b68-8fce-ffb99adde7d9" />
 
 #
+<p align="center">Estudante do segundo ano de Engenharia de Software na FIAP!</p>
+<p align="center">Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados, além da criação de interfaces web responsivas utilizando HTML, CSS, JavaScript e React. Atualmente, estou expandindo meus conhecimentos em Langchain para fortalecer meus conhecimentos com Inteligência Artificial.</p>
+
+<h2 align="center">Reach Me Out <img src="https://github.com/user-attachments/assets/ff52eb62-60c6-4e32-8be9-c7f945b00b37" width="30"></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielsnovais/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:silvanovaesgabriel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/5511917145639">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<h2 align="center">Tech Stack <img src="https://github.com/user-attachments/assets/8757644a-3d99-49c5-9e28-274ddd708e81" width="50"></h2>
+
+<div align="center">
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+</div>
 
-# Contato
-Gmail - silvanovaesgabriel@gmail.com <br>
-Linkedin - https://www.linkedin.com/in/gabrielsnovais
+<h2 align="center">My Github Stats<img src="https://github.com/user-attachments/assets/a8bfbb91-bbc8-4f22-a65b-7e606a77a98f" width="50"></h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Gsn00&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gsn00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gsn00&theme=dark&hide_border=false"/>
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
