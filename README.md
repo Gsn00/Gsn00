@@ -4,6 +4,22 @@
 <p align="center">Estudante do segundo ano de Engenharia de Software na FIAP!</p>
 <p align="center">Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados, além da criação de interfaces web responsivas utilizando HTML, CSS, JavaScript e React. Atualmente, estou expandindo meus conhecimentos em Langchain para fortalecer meus conhecimentos com Inteligência Artificial.</p>
 
+<h2 align="center">Reach Me Out <img src="https://github.com/user-attachments/assets/ff52eb62-60c6-4e32-8be9-c7f945b00b37" width="30"></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielsnovais/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:silvanovaesgabriel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/5511917145639">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
 <h2 align="center">Tech Stack <img src="https://github.com/user-attachments/assets/8757644a-3d99-49c5-9e28-274ddd708e81" width="50"></h2>
 
 <div align="center">
@@ -30,19 +46,3 @@
   <img src="https://streak-stats.demolab.com/?user=Gsn00&theme=dark&hide_border=false"/>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h2 align="center">Reach Me Out <img src="https://github.com/user-attachments/assets/ff52eb62-60c6-4e32-8be9-c7f945b00b37" width="30"></h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielsnovais/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:silvanovaesgabriel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://wa.me/5511917145639">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
